@@ -1,2 +1,2 @@
 # Cipher
-Cipher encryption and decryption
+Cipher encryption and decryption using evolutionary algorithms
